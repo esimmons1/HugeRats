@@ -65,8 +65,10 @@ littersPerYear = 5                # How many generations happen each year
 - The Python Projects book  
 
 ---
-As per usual, if you're going to steal or use it at least credit me please.
 
 ## Notes:
 - This isn’t exactly science, but it *is* a decent way to visualize basic evolutionary pressure and selection.
 - If your rats aren't hitting the goal, try cranking up the mutation range or increasing litter size.
+
+
+As per usual, if you're going to steal or use it at least credit me please.
