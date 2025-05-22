@@ -1,7 +1,7 @@
 Rat Breeding Simulator  
 ======================
 
-Made by: Ellis Simmons – April 2024  
+Made by: Ellis Simmons - April 2024  
 Language: Python
 
 What is this?
