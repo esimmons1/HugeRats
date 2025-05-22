@@ -61,7 +61,8 @@ littersPerYear = 5                # How many generations happen each year
 ## Inspired by:
 - Daniel Shiffman’s genetic algorithms series  
 - Evolutionary biology (in a very, very simplified form)  
-- Neil deGrasse Tyson, because he's made me think about science in a cool way  
+- Neil deGrasse Tyson, because he's made me think about science in a cool way
+- The Python Projects book  
 
 ---
 
