@@ -21,6 +21,7 @@ What’s actually happening?
 
 Key settings (aka the knobs you can mess with):
 ----------------------------------------------
+```python
 goal = random.randint(50000, 75000)  # How chunky you want the average rat to be  
 numRats = 20                         # Number of adult rats in your lab  
 initialMinWt = 200                   # Smallest rat weight in the start  
@@ -31,7 +32,8 @@ mutateMin = 0.5                     # Least helpful mutation scale (50% smaller)
 mutateMax = 1.2                     # Most helpful mutation scale (20% bigger)  
 litterSize = 8                      # How many pups a pair makes  
 generationLimit = 50000             # Max number of generations allowed  
-littersPerYear = 5                  # How many generations happen each year  
+littersPerYear = 5                  # How many generations happen each year
+```
 
 What you'll see in the console:
 -------------------------------
