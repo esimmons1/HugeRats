@@ -1,4 +1,4 @@
-# 🐀 Rat Breeding Simulator  
+# Rat Breeding Simulator  
 **By Ellis Simmons – April 2024**  
 Made with Python  
 
@@ -70,5 +70,5 @@ littersPerYear = 5                # How many generations happen each year
 - This isn’t exactly science, but it *is* a decent way to visualize basic evolutionary pressure and selection.
 - If your rats aren't hitting the goal, try cranking up the mutation range or increasing litter size.
 
-
-As per usual, if you're going to steal or use it at least credit me please.
+---
+As per usual, if you're going to steal or use it at least credit me please. Thank you for reading and have a nice day.
